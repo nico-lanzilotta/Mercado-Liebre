@@ -6,6 +6,7 @@ las vistas adaptativas a utilizar son:
 -desktop: 1055px en adelante
 
 Funcionalidades de la pagina a partir de la version tablet en adelante:
+
 1- Clicks:
   -Boton de login
   -Boton de crear cuenta
