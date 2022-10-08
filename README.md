@@ -1,1 +1,1 @@
-Primer diseño web responsive del curso Full Stack developer de Digital House
+primer desarrollo web responsive del curso full stack developer de digital house
