@@ -2,9 +2,12 @@ Primer desarrollo web responsive del curso full stack developer de digital house
 
 las vistas adaptativas a utilizar son:
 
--mobile: 360px
--tablet: 768px
--desktop: 1055px en adelante
+1- mobile: 
+  -360px
+2- tablet: 
+  -768px
+3- desktop: 
+  -1055px en adelante
 
 Funcionalidades de la pagina a partir de la version tablet en adelante:
 
