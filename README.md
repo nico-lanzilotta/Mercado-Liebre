@@ -4,8 +4,10 @@ las vistas adaptativas a utilizar son:
 
 1- mobile: 
   -360px
+  
 2- tablet: 
   -768px
+  
 3- desktop: 
   -1055px en adelante
 
