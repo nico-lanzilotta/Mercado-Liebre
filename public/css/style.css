@@ -426,7 +426,7 @@ font-weight: 800;
     }
 
     .articulo-venta{
-        transition: 1s;
+        transition: 1s all;
     }
 
     main section article i:hover{
@@ -437,11 +437,15 @@ font-weight: 800;
      /*hover descripciones*/
 
     .descripciones{
-        display: none;
+        display: block;
+        opacity: 0;
+        transition: 0.5s all;
     }
     
     .articulo-venta:hover .descripciones{
-        display:block;
+        /*display:block;*/
+        opacity: 1;
+        transition: 0.5s all;
     }
 
 
@@ -604,6 +608,8 @@ font-weight: 800;
         display: flex;
         flex-wrap: wrap;
         width: 100%;
+        max-width: 350px
+        ;
     }
 
     .logo-cel{
@@ -635,6 +641,7 @@ font-weight: 800;
         text-align: left;
         width: 30%;
         font-size: 16px;
+        justify-content: center;
     }
 
 
